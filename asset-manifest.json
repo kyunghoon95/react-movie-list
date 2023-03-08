@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kyunghoon95/react-movie-list.git/static/css/main.08512c8b.css",
+    "main.js": "/kyunghoon95/react-movie-list.git/static/js/main.9caac64e.js",
+    "static/js/787.4bcb6b21.chunk.js": "/kyunghoon95/react-movie-list.git/static/js/787.4bcb6b21.chunk.js",
+    "index.html": "/kyunghoon95/react-movie-list.git/index.html",
+    "main.08512c8b.css.map": "/kyunghoon95/react-movie-list.git/static/css/main.08512c8b.css.map",
+    "main.9caac64e.js.map": "/kyunghoon95/react-movie-list.git/static/js/main.9caac64e.js.map",
+    "787.4bcb6b21.chunk.js.map": "/kyunghoon95/react-movie-list.git/static/js/787.4bcb6b21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08512c8b.css",
+    "static/js/main.9caac64e.js"
+  ]
+}
